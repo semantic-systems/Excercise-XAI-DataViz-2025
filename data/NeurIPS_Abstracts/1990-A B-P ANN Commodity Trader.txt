@@ -1,0 +1,3 @@
+An  Artificial  Neural  Network  recognize  a  buy/sell  particular  commodity  Propagation  of  errors  algorithm  was  used  to  encode  the  the  Long/Short  desired  output  and  18  fundamental  variables  plus  6  (or  18)  Trained  on  one  technical  variables  into  year  of  past  data  to  predict  long/short  market  positions  in  the  future  that  would  have  made  $10,301  profit  on  an  investment  of  less  than  $1000. 
+
+relationship  between
