@@ -7,3 +7,4 @@ nltk~=3.9.1
 scikit-learn~=1.6.1
 torch~=2.7.0
 ConfigSpace~=1.2.1
+shap~=0.47.2
